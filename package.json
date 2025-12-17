@@ -1,0 +1,26 @@
+{
+  "name": "creatingly-assingment",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AMMAR-ZAHOOR/Creatingly-Assingment#readme",
+  "bugs": {
+    "url": "https://github.com/AMMAR-ZAHOOR/Creatingly-Assingment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMMAR-ZAHOOR/Creatingly-Assingment.git"
+  },
+  "license": "ISC",
+  "author": "Ammar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress": "^15.8.0"
+  },
+  "devDependencies": {
+    "cypress-real-events": "^1.15.0"
+  }
+}
